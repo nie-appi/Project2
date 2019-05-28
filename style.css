@@ -1,0 +1,249 @@
+.row3-style{
+	height:300px;
+	width:56%;
+	background-color:black;
+	
+}
+.white-text{
+	color:white;
+	padding:20px;
+}
+.orange-color{
+	background-color: #ff7300;
+	width:44% ;
+	position:relative;
+	z-index:-1;
+}
+#signup{
+	position:absolute;
+	z-index:2;
+}
+.rectangle-square{
+	background-color: #ff7300; 
+	width:150px; 
+	height:140px;
+	margin-right:20px;
+}
+.black-background{
+	background-color: black !important;
+}
+.white-text1{
+	
+
+	color:white;
+}
+.orange-text1{
+	background-color: #afa7a0;;
+	height:400px;
+	
+}
+.wrapper{
+	margin-top:100px;
+}
+.banner{
+	background-image:url('image/banner.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height : 400px;
+}
+.aaa{
+	background-color: #4e4646;
+}
+.nav-pills li {
+  float: none;
+  display: inline-block;
+  
+}
+.nav-pills li a {
+	margin-top:5px;
+	color:white;
+}
+
+.nav-pills {
+  text-align:center;
+}
+
+.hero-image{
+	 background-image: url("h-img.jpg");
+	height:50%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	
+}
+.hero-text{
+	color:white;
+	text-align:center;
+	position:absolute;
+	top:20%;
+	
+}
+/*-----*/
+.icon_type {
+    margin-top: 100px;
+    /*    margin-left: 150px;*/
+}
+
+.icon1 i {
+    text-align: center;
+    border: 2px solid #fff;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-top: 30px;
+    font-size: 35px;
+    color: white;
+    background-color: #2EB5A8;
+}
+
+.icon1 i:hover {
+    text-align: center;
+    border: 2px solid #2EB5A8;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-top: 30px;
+    font-size: 35px;
+    color: #2EB5A8;
+    background-color: #fff;
+    transition: .5s;
+}
+/*-----*/
+
+      /*       Protfolio part       */
+
+
+#protfolio {
+    height: auto;
+   margin-top: 100px;
+    background-color: #F5F5F5;
+}
+
+#protfolio h1{
+    text-align: center;
+    color: #2EB5A8;
+    margin-top: 50px;
+    font-weight: 400;
+    font-family: fantasy;
+
+}
+#protfolio p{
+    text-align: center;
+    font-weight: 600;
+
+}
+.modal-dialog {
+    width: 600px;
+  
+}
+
+.thumbnail {
+    margin-bottom: 6px;
+}
+
+.button1{
+    margin-left: 600px;
+    background-color: #fff;
+    height: 40px;
+    width: 140px;
+    border: 1px solid black;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: black;
+    
+    
+}
+    /*       Service      part */
+
+
+#Service {
+    
+    height: auto;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+#Service h2{
+    text-align: center;
+  padding-bottom: 10px;
+    color: #2EB5A8;
+    font-family: fantasy;
+    font-weight: bold;
+    letter-spacing: 2px;
+   
+    
+}
+
+#Service p{
+    text-align: center;
+    font-weight: 600;
+  
+   
+    
+}
+.service_icon{
+    padding-top: 40px;
+}
+.service_icon i{
+    font-size: 30px;
+    border: 2px solid #000;
+    height: 50px;
+    width: 70px;
+    border-radius: 3px;
+    padding-top: 5px;
+    color: #2EB5A8;
+}
+.service_icon i:hover{
+    font-size: 30px;
+    border: 2px solid #2EB5A8;
+    height: 50px;
+    width: 70px;
+    border-radius: 3px;
+    padding-top: 5px;
+    color: #000;
+    transition: .5s;
+}
+.service_icon h4{
+    color: black;
+    font-family: fantasy;
+}
+.service_icon h4:hover{
+    color: #2EB5A8;
+    font-family: fantasy;
+    transition: .5s;
+}
+
+.footer-icon i{
+ 
+   margin-left: 20px;
+   border: 2px solid #000;
+    border-radius: 50%;
+    height: 40px;
+    width:40px;
+    padding: 10px;
+    font-size: 17px;
+    background-color: beige;
+        
+ 
+    
+}
+
+.footer-icon i:hover{
+ 
+   margin-left: 20px;
+   border: 2px solid #fff;
+    border-radius: 50%;
+    height: 40px;
+    width:40px;
+    padding: 10px;
+    font-size: 17px;
+    background-color: #2EB5A8;
+        
+ 
+    
+}
+.coproghtfooter p{
+    margin-top: 20px;
+    font-family: cursive;
+}
+
